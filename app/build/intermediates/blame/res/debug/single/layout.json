@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/layout/alert_all_in_one_dialog.xml",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/alert_all_in_one_dialog.xml"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/layout/splashscreen.xml",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/splashscreen.xml"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/layout/dialog_for_allinone_alerts.xml",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/dialog_for_allinone_alerts.xml"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/layout/settings_screen.xml",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/settings_screen.xml"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/layout/screen_lock.xml",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/screen_lock.xml"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/layout/custom_list_item.xml",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/custom_list_item.xml"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/layout/pwd_screen.xml",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/pwd_screen.xml"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/layout/history_layout.xml",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/history_layout.xml"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/layout/header.xml",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/header.xml"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/layout/apps_grid.xml",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/apps_grid.xml"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/layout/alert_add_reseume_for_logout.xml",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/alert_add_reseume_for_logout.xml"
+    }
+]

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="result_color_one">#D4EDFF</color>
+    <color name="result_color_two">#3298DF</color>
+    <color name="result_color_three">#D4EDFF</color>
+    <color name="result_color_four">#3298DF</color>
+    <color name="search_color_one">#3298DF</color>
+
+    <color name="automotive">#334FA3</color>
+    <color name="dandf">#E8291C</color>
+    <color name="handbeauty">#D587B7</color>
+    <color name="handlife">#767B7F</color>
+    <color name="leisure">#26B685</color>
+    <color name="shoppping">#7E4298</color>
+    <color name="travel">#BEDB7E</color>
+    
+   
+    <color name="button_color1">#3CA4EA</color>
+    <color name="button_color2">#187EC5</color>
+    <color name="button_color_solid">#993CA4EA</color>
+    <color name="button_color_stroke">#000000</color>
+          
+     <color name="offer_text_color_one">#000000</color>
+    <color name="offer_text_color_two">#000000</color>
+    <color name="product_name_text_color">#3298DF</color> 
+    <color name="product_name_text_color_two">#D4EDFF</color>
+    
+    
+    <color name="product_details_boundary_line_color">#3298DF</color>
+    
+</resources>

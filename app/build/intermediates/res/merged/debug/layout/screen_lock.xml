@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/header" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background" >
+        
+        
+         <LinearLayout
+            android:id="@+id/TableLayout01"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_centerInParent="true"
+            android:stretchColumns="*" >
+
+            <LinearLayout
+                android:id="@+id/TableRow01"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+               android:weightSum="2" >
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="100dp"
+                   android:background="@drawable/white_background"
+                    android:id="@+id/firstRLID"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1" >
+
+                    <Button
+                        android:id="@+id/exitBtnID"
+                        android:layout_width="wrap_content"
+                        android:background="@drawable/exit_icon"
+                        android:layout_height="wrap_content"
+                       android:layout_centerInParent="true" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/exitBtnID"
+                        android:layout_centerInParent="true" 
+                        android:text="Exit The App"
+                        android:textStyle="bold"
+                        android:textColor="#FFF" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="100dp"
+                    android:background="@drawable/white_background"
+                       android:id="@+id/secondRLID"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1" >
+
+                    <Button
+                        android:id="@+id/snoozeBtnID"
+                        android:layout_width="wrap_content"
+                        android:background="@drawable/snooze"
+                        android:layout_height="wrap_content"
+                          android:layout_centerInParent="true" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/snoozeBtnID"
+                          android:layout_centerInParent="true"
+                        android:text="Snooze"
+                        android:textStyle="bold"
+                        android:textColor="#FFF" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/TableRow02"
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+               android:weightSum="2" >
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="100dp"
+                     android:background="@drawable/white_background"
+                    android:layout_gravity="center_horizontal"
+                       android:id="@+id/thirdRLID"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1" >
+
+                    <Button
+                        android:id="@+id/gotoBtnID"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                           android:background="@drawable/goto_icon"
+                          android:layout_centerInParent="true" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/gotoBtnID"
+                          android:layout_centerInParent="true"
+                        android:text="Goto Main Menu"
+                        android:textStyle="bold"
+                        android:textColor="#FFF" />
+                </RelativeLayout>
+
+              </LinearLayout>
+           
+        </LinearLayout>
+
+       <!--  <Button
+            android:id="@+id/unlockBtnID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Snooze" /> -->
+    </RelativeLayout>
+
+</LinearLayout>

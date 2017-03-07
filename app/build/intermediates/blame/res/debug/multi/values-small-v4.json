@@ -1,0 +1,973 @@
+[
+    {
+        "outputFile": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 195,
+                        "startColumn": 4,
+                        "startOffset": 8013,
+                        "endLine": 198,
+                        "endColumn": 12,
+                        "endOffset": 8236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 4054,
+                        "endLine": 121,
+                        "endColumn": 12,
+                        "endOffset": 4940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1447
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 4948,
+                        "endLine": 127,
+                        "endColumn": 12,
+                        "endOffset": 5241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1452,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1566
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 256,
+                        "startColumn": 4,
+                        "startOffset": 10278,
+                        "endLine": 258,
+                        "endColumn": 12,
+                        "endOffset": 10394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1571,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2010
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 284,
+                        "startColumn": 4,
+                        "startOffset": 11240,
+                        "endLine": 291,
+                        "endColumn": 12,
+                        "endOffset": 11686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2015,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 2324
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 5367,
+                        "endLine": 139,
+                        "endColumn": 12,
+                        "endOffset": 5682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2329,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 2757
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 6794,
+                        "endLine": 174,
+                        "endColumn": 12,
+                        "endOffset": 7230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2762,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 2899
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 7238,
+                        "endLine": 178,
+                        "endColumn": 12,
+                        "endOffset": 7377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2904,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 3274
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 6049,
+                        "endLine": 156,
+                        "endColumn": 12,
+                        "endOffset": 6426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3279,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 3559
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 4,
+                        "startOffset": 6434,
+                        "endLine": 163,
+                        "endColumn": 12,
+                        "endOffset": 6719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3564,
+                    "endLine": 74,
+                    "endColumn": 12,
+                    "endOffset": 3847
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 5690,
+                        "endLine": 146,
+                        "endColumn": 12,
+                        "endOffset": 5978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3852,
+                    "endLine": 83,
+                    "endColumn": 12,
+                    "endOffset": 4283
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 7385,
+                        "endLine": 188,
+                        "endColumn": 12,
+                        "endOffset": 7824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4288,
+                    "endLine": 96,
+                    "endColumn": 12,
+                    "endOffset": 4912
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 8244,
+                        "endLine": 212,
+                        "endColumn": 12,
+                        "endOffset": 8880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 4917,
+                    "endLine": 100,
+                    "endColumn": 12,
+                    "endOffset": 5086
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 3689,
+                        "endLine": 101,
+                        "endColumn": 12,
+                        "endOffset": 3861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 5091,
+                    "endLine": 103,
+                    "endColumn": 12,
+                    "endOffset": 5223
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 240,
+                        "startColumn": 4,
+                        "startOffset": 9880,
+                        "endLine": 242,
+                        "endColumn": 12,
+                        "endOffset": 10014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 5228,
+                    "endLine": 109,
+                    "endColumn": 12,
+                    "endOffset": 5531
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 78,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 5536,
+                    "endLine": 113,
+                    "endColumn": 12,
+                    "endOffset": 5704
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 892,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 5709,
+                    "endLine": 117,
+                    "endColumn": 12,
+                    "endOffset": 5880
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1388,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 5885,
+                    "endLine": 121,
+                    "endColumn": 12,
+                    "endOffset": 6059
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1071,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 6064,
+                    "endLine": 124,
+                    "endColumn": 12,
+                    "endOffset": 6180
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 2546,
+                        "endLine": 70,
+                        "endColumn": 12,
+                        "endOffset": 2664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 6185,
+                    "endLine": 127,
+                    "endColumn": 12,
+                    "endOffset": 6307
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1256,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 6312,
+                    "endLine": 130,
+                    "endColumn": 12,
+                    "endOffset": 6439
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 224,
+                        "startColumn": 4,
+                        "startOffset": 9331,
+                        "endLine": 226,
+                        "endColumn": 12,
+                        "endOffset": 9460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 6444,
+                    "endLine": 133,
+                    "endColumn": 12,
+                    "endOffset": 6540
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 248,
+                        "startColumn": 4,
+                        "startOffset": 10060,
+                        "endLine": 250,
+                        "endColumn": 12,
+                        "endOffset": 10158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 6545,
+                    "endLine": 136,
+                    "endColumn": 12,
+                    "endOffset": 6647
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 4,
+                        "startOffset": 10166,
+                        "endLine": 254,
+                        "endColumn": 12,
+                        "endOffset": 10270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 6652,
+                    "endLine": 140,
+                    "endColumn": 12,
+                    "endOffset": 6821
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1749,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 1921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 6826,
+                    "endLine": 144,
+                    "endColumn": 12,
+                    "endOffset": 6999
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 1929,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 2105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 7004,
+                    "endLine": 148,
+                    "endColumn": 12,
+                    "endOffset": 7174
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 7832,
+                        "endLine": 193,
+                        "endColumn": 12,
+                        "endOffset": 8005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 7179,
+                    "endLine": 157,
+                    "endColumn": 12,
+                    "endOffset": 7606
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 4,
+                        "startOffset": 8888,
+                        "endLine": 222,
+                        "endColumn": 12,
+                        "endOffset": 9323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 7611,
+                    "endLine": 160,
+                    "endColumn": 12,
+                    "endOffset": 7737
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 236,
+                        "startColumn": 4,
+                        "startOffset": 9744,
+                        "endLine": 238,
+                        "endColumn": 12,
+                        "endOffset": 9872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 7742,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 7916
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 3869,
+                        "endLine": 106,
+                        "endColumn": 12,
+                        "endOffset": 4046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 7921,
+                    "endLine": 168,
+                    "endColumn": 12,
+                    "endOffset": 8098
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 2672,
+                        "endLine": 75,
+                        "endColumn": 12,
+                        "endOffset": 2852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 8103,
+                    "endLine": 172,
+                    "endColumn": 12,
+                    "endOffset": 8291
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 3055,
+                        "endLine": 85,
+                        "endColumn": 12,
+                        "endOffset": 3246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 8296,
+                    "endLine": 176,
+                    "endColumn": 12,
+                    "endOffset": 8480
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 2860,
+                        "endLine": 80,
+                        "endColumn": 12,
+                        "endOffset": 3047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 8485,
+                    "endLine": 180,
+                    "endColumn": 12,
+                    "endOffset": 8665
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 3254,
+                        "endLine": 90,
+                        "endColumn": 12,
+                        "endOffset": 3437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 8670,
+                    "endLine": 185,
+                    "endColumn": 12,
+                    "endOffset": 8895
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2113,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 2342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 8900,
+                    "endLine": 191,
+                    "endColumn": 12,
+                    "endOffset": 9083
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2350,
+                        "endLine": 66,
+                        "endColumn": 12,
+                        "endOffset": 2538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 9088,
+                    "endLine": 196,
+                    "endColumn": 12,
+                    "endOffset": 9278
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 260,
+                        "startColumn": 4,
+                        "startOffset": 10402,
+                        "endLine": 264,
+                        "endColumn": 12,
+                        "endOffset": 10596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 9283,
+                    "endLine": 201,
+                    "endColumn": 12,
+                    "endOffset": 9482
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 266,
+                        "startColumn": 4,
+                        "startOffset": 10604,
+                        "endLine": 270,
+                        "endColumn": 12,
+                        "endOffset": 10807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 9487,
+                    "endLine": 206,
+                    "endColumn": 12,
+                    "endOffset": 9692
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 278,
+                        "startColumn": 4,
+                        "startOffset": 11023,
+                        "endLine": 282,
+                        "endColumn": 12,
+                        "endOffset": 11232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 9697,
+                    "endLine": 211,
+                    "endColumn": 12,
+                    "endOffset": 9893
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 272,
+                        "startColumn": 4,
+                        "startOffset": 10815,
+                        "endLine": 276,
+                        "endColumn": 12,
+                        "endOffset": 11015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 9898,
+                    "endLine": 215,
+                    "endColumn": 12,
+                    "endOffset": 10071
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 3505,
+                        "endLine": 96,
+                        "endColumn": 12,
+                        "endOffset": 3681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 10076,
+                    "endLine": 218,
+                    "endColumn": 12,
+                    "endOffset": 10206
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 228,
+                        "startColumn": 4,
+                        "startOffset": 9468,
+                        "endLine": 230,
+                        "endColumn": 12,
+                        "endOffset": 9600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 10211,
+                    "endLine": 222,
+                    "endColumn": 12,
+                    "endOffset": 10379
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1570,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 1741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 10384,
+                    "endLine": 229,
+                    "endColumn": 12,
+                    "endOffset": 10745
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 10750,
+                    "endLine": 232,
+                    "endColumn": 12,
+                    "endOffset": 10863
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 10868,
+                    "endLine": 235,
+                    "endColumn": 12,
+                    "endOffset": 10994
+                },
+                "from": {
+                    "file": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml",
+                    "position": {
+                        "startLine": 232,
+                        "startColumn": 4,
+                        "startOffset": 9608,
+                        "endLine": 234,
+                        "endColumn": 12,
+                        "endOffset": 9736
+                    }
+                }
+            }
+        ]
+    }
+]

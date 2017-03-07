@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi/stop_service.png",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/stop_service.png"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi/toggle_off.png",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/toggle_off.png"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi/settings.png",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/settings.png"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi/splash_back.png",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/splash_back.png"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi/start_service.png",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/start_service.png"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi/back_pressed.png",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/back_pressed.png"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi/submit.png",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/submit.png"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi/history_icon.png",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/history_icon.png"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi/background.png",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi/snooze.png",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/snooze.png"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi/exit_icon.png",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/exit_icon.png"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi/alert1.png",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/alert1.png"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi/blue_bar.png",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/blue_bar.png"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi/back.png",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/back.png"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi/list.png",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/list.png"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi/back_key.png",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/back_key.png"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi/goto_icon.png",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/goto_icon.png"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi/toggle_on.png",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/toggle_on.png"
+    }
+]

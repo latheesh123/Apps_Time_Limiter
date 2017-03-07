@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <include layout="@layout/header" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TableLayout
+            android:id="@+id/TableLayout01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:stretchColumns="*" >
+
+            <TableRow
+                android:id="@+id/TableRow01"
+                android:layout_width="wrap_content"
+                android:layout_height="0px"
+                android:layout_weight="1" >
+
+                <RelativeLayout
+                    android:id="@+id/firstRLID"
+                    android:layout_width="wrap_content"
+                    android:layout_height="100dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/white_background" >
+
+                    <Button
+                        android:id="@+id/selectAppsBtnID"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:background="@drawable/list" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/selectAppsBtnID"
+                        android:layout_centerInParent="true"
+                        android:text="Select Apps"
+                        android:textColor="#FFF" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/secondRLID"
+                    android:layout_width="wrap_content"
+                    android:layout_height="100dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/white_background" >
+
+                    <Button
+                        android:id="@+id/startServiceBtnID"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:background="@drawable/start_service" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/startServiceBtnID"
+                        android:layout_centerInParent="true"
+                        android:text="Start Service"
+                        android:textColor="#FFF" />
+                </RelativeLayout>
+            </TableRow>
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="0px"
+                android:layout_weight="1" >
+
+                <RelativeLayout
+                    android:id="@+id/thirdRLID"
+                    android:layout_width="wrap_content"
+                    android:layout_height="100dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/white_background" >
+
+                    <Button
+                        android:id="@+id/stopServiceBtnID"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:background="@drawable/stop_service" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/stopServiceBtnID"
+                        android:layout_centerInParent="true"
+                        android:text="Stop Service"
+                        android:textColor="#FFF" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/fourthRLID"
+                    android:layout_width="wrap_content"
+                    android:layout_height="100dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/white_background" >
+
+                    <Button
+                        android:id="@+id/settingsBtnID"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:background="@drawable/settings" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/settingsBtnID"
+                        android:layout_centerInParent="true"
+                        android:text="Settings"
+                        android:textColor="#FFF" />
+                </RelativeLayout>
+            </TableRow>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:weightSum="2" >
+
+                <RelativeLayout
+                    android:id="@+id/fifthhRLID"
+                    android:layout_width="wrap_content"
+                    android:layout_height="100dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/white_background" >
+
+                    <Button
+                        android:id="@+id/historyBtnID"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:background="@drawable/history_icon" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/historyBtnID"
+                        android:layout_centerInParent="true"
+                        android:text="History"
+                        android:textColor="#FFF" />
+                </RelativeLayout>
+            </LinearLayout>
+        </TableLayout>
+    </RelativeLayout>
+
+</LinearLayout>

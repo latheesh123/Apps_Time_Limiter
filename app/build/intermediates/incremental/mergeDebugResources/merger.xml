@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res"/><source path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/generated/res/rs/debug"/><source path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/debug/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res"><file name="alert1" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/alert1.png" qualifiers="hdpi-v4" type="drawable"/><file name="applicationlist_item_back" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/applicationlist_item_back.xml" qualifiers="hdpi-v4" type="drawable"/><file name="applicationlist_item_selected" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/applicationlist_item_selected.xml" qualifiers="hdpi-v4" type="drawable"/><file name="back" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/back.png" qualifiers="hdpi-v4" type="drawable"/><file name="back_key" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/back_key.png" qualifiers="hdpi-v4" type="drawable"/><file name="back_pressed" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/back_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="back_selector" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/back_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="background" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/background.png" qualifiers="hdpi-v4" type="drawable"/><file name="blue_bar" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/blue_bar.png" qualifiers="hdpi-v4" type="drawable"/><file name="exit_icon" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/exit_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="goto_icon" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/goto_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="history_icon" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/history_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="list" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/list.png" qualifiers="hdpi-v4" type="drawable"/><file name="my_shapes_login_screen" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/my_shapes_login_screen.xml" qualifiers="hdpi-v4" type="drawable"/><file name="settings" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/settings.png" qualifiers="hdpi-v4" type="drawable"/><file name="shape_boundary_rect1" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/shape_boundary_rect1.xml" qualifiers="hdpi-v4" type="drawable"/><file name="shape_boundary_rect2" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/shape_boundary_rect2.xml" qualifiers="hdpi-v4" type="drawable"/><file name="snooze" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/snooze.png" qualifiers="hdpi-v4" type="drawable"/><file name="splash_back" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/splash_back.png" qualifiers="hdpi-v4" type="drawable"/><file name="start_service" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/start_service.png" qualifiers="hdpi-v4" type="drawable"/><file name="stop_service" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/stop_service.png" qualifiers="hdpi-v4" type="drawable"/><file name="submit" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/submit.png" qualifiers="hdpi-v4" type="drawable"/><file name="toggle_off" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/toggle_off.png" qualifiers="hdpi-v4" type="drawable"/><file name="toggle_on" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/toggle_on.png" qualifiers="hdpi-v4" type="drawable"/><file name="toggle_selector" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/toggle_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="white_background" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/white_background.xml" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="alert_add_reseume_for_logout" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/alert_add_reseume_for_logout.xml" qualifiers="" type="layout"/><file name="alert_all_in_one_dialog" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/alert_all_in_one_dialog.xml" qualifiers="" type="layout"/><file name="apps_grid" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/apps_grid.xml" qualifiers="" type="layout"/><file name="custom_list_item" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/custom_list_item.xml" qualifiers="" type="layout"/><file name="dialog_for_allinone_alerts" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/dialog_for_allinone_alerts.xml" qualifiers="" type="layout"/><file name="header" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/header.xml" qualifiers="" type="layout"/><file name="history_layout" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/history_layout.xml" qualifiers="" type="layout"/><file name="main" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/main.xml" qualifiers="" type="layout"/><file name="pwd_screen" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/pwd_screen.xml" qualifiers="" type="layout"/><file name="screen_lock" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/screen_lock.xml" qualifiers="" type="layout"/><file name="settings_screen" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/settings_screen.xml" qualifiers="" type="layout"/><file name="splashscreen" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/layout/splashscreen.xml" qualifiers="" type="layout"/><file path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values/colors.xml" qualifiers=""><color name="offer_text_color_two">#000000</color><color name="product_name_text_color">#3298DF</color><color name="handlife">#767B7F</color><color name="button_color_solid">#993CA4EA</color><color name="handbeauty">#D587B7</color><color name="product_details_boundary_line_color">#3298DF</color><color name="button_color2">#187EC5</color><color name="offer_text_color_one">#000000</color><color name="shoppping">#7E4298</color><color name="automotive">#334FA3</color><color name="result_color_two">#3298DF</color><color name="travel">#BEDB7E</color><color name="product_name_text_color_two">#D4EDFF</color><color name="dandf">#E8291C</color><color name="result_color_three">#D4EDFF</color><color name="leisure">#26B685</color><color name="button_color1">#3CA4EA</color><color name="result_color_four">#3298DF</color><color name="button_color_stroke">#000000</color><color name="search_color_one">#3298DF</color><color name="result_color_one">#D4EDFF</color></file><file path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values/strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string name="no_one" translatable="false">NO</string><string name="yes_one" translatable="false">YES</string><string name="action_settings">Settings</string><string name="app_name">AppsTracker</string><string name="ok_one_alert" translatable="false">OK</string></file><file path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values/styles.xml" qualifiers=""><style name="productDescText" parent="@style/grabText">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textStyle">normal</item>
+    </style><style name="alertMessagesTexts">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:gravity">center</item>
+    </style><style name="noticeUpdateText" parent="@style/grabText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#fff</item>
+    </style><style name="alert_titles">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_centerInParent">true</item>
+    </style><style name="text_editbox" parent="@style/text_title">
+        <item name="android:textColor">#000</item>
+        <item name="android:textSize">14sp</item>
+    </style><style name="alert_button_no" parent="@style/alertNoButtonsText">
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">20</item>
+    </style><style name="categoryText" parent="@style/grabText">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="grabText" parent="@android:style/Widget.TextView">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:typeface">serif</item>
+    </style><style name="productCouponText_MiD" parent="@style/grabText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="text_title" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="headerTitle" parent="@style/grabText">
+        <item name="android:textSize">19sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style><style name="GenericProgressNewIndicator" parent="@android:style/Widget.ProgressBar.Large">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:indeterminate">true</item>
+    </style><style name="helpPage_Text" parent="@style/grabText">
+        <item name="android:textSize">14sp</item>
+    </style><style name="alertMessagesTexts_redeem" parent="@style/alertMessagesTexts">
+        <item name="android:textSize">11sp</item>
+    </style><style name="GenericProgressNewBackground" parent="android:Theme">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:background">#DD111111</item>
+        <item name="android:gravity">center</item>
+    </style><style name="button_text">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style><style name="parking_timer_text" parent="@style/grabText">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style><style name="GenericProgressIndicator" parent="@android:style/Widget.ProgressBar.Large.Inverse">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:indeterminate">true</item>
+    </style><style name="productNameText" parent="@style/grabText">
+        <item name="android:textSize">16sp</item>
+        
+    </style><style name="productCouponText_offer" parent="@style/grabText">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="alertNoButtonsText">
+        <item name="android:layout_width">120dp</item>
+        <item name="android:layout_height">36dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginLeft">10dp</item>
+    </style><style name="alert_ok_yes_buttons" parent="@style/alertButtonsText">
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">20</item>
+    </style><style name="timer_text" parent="@style/grabText">
+        <item name="android:textSize">30sp</item>
+    </style><style name="productCouponText_no_mobile" parent="@style/grabText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="menuItemText" parent="@style/grabText">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#5E657A</item>
+    </style><style name="GenericProgressBackground" parent="android:Theme">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="helpDialogText_title" parent="@style/grabText">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#FFF</item>
+    </style><style name="helpPage_Text_title" parent="@style/grabText">
+        <item name="android:textSize">18sp</item>
+    </style><style name="productCouponText_MiD_no_mobile" parent="@style/grabText">
+        <item name="android:textSize">11sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="alertButtonsText">
+        <item name="android:layout_width">120dp</item>
+        <item name="android:layout_height">36dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="myMemberCardText" parent="@style/grabText">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="DialogAnimationByHari">
+        <item name="android:windowEnterAnimation">@android:anim/slide_in_left</item>
+        <item name="android:windowExitAnimation">@android:anim/slide_out_right</item>
+    </style><style name="productOfferText" parent="@style/grabText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="productCouponText" parent="@style/grabText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="helpDialogText" parent="@style/grabText">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#D9EEFD</item>
+    </style><style name="AppBaseTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        
+    </style></file><file path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-large/styles.xml" qualifiers="large-v4"><style name="productCouponText" parent="@style/grabText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="parking_timer_text" parent="@style/grabText">
+        <item name="android:textSize">35sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style><style name="productCouponText_offer" parent="@style/grabText">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="text_editbox" parent="@style/text_title">
+        <item name="android:textColor">#000</item>
+        <item name="android:textSize">22sp</item>
+    </style><style name="productDescText" parent="@style/grabText">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textStyle">normal</item>
+    </style><style name="myMemberCardText" parent="@style/grabText">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="alert_titles">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_centerInParent">true</item>
+    </style><style name="noticeUpdateText" parent="@style/grabText">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#fff</item>
+    </style><style name="productCouponText_MiD_no_mobile" parent="@style/grabText">
+        <item name="android:textSize">11sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="No_Fav_Text" parent="@style/grabText">
+        <item name="android:textSize">25sp</item>
+    </style><style name="productNameText_new_loy_congrats_small" parent="@style/grabText">
+        <item name="android:textSize">34sp</item>
+
+        
+    </style><style name="alertMessagesTexts_redeem" parent="@style/alertMessagesTexts">
+        <item name="android:textSize">16sp</item>
+    </style><style name="password" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">19sp</item>
+    </style><style name="loyalty_text_style">
+        <item name="android:textSize">20sp</item>
+    </style><style name="headerTitle" parent="@style/grabText">
+        <item name="android:textSize">23sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style><style name="productNameText" parent="@style/grabText">
+        <item name="android:textSize">19sp</item>
+
+        
+
+    </style><style name="alertNoButtonsText">
+        <item name="android:layout_width">140dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginLeft">20dp</item>
+    </style><style name="registertext" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">22sp</item>
+    </style><style name="alert_button_no" parent="@style/alertNoButtonsText">
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">20</item>
+    </style><style name="button_text">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">23sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style><style name="productCouponText_MiD" parent="@style/grabText">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="helpDialogText" parent="@style/grabText">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#D9EEFD</item>
+    </style><style name="text_title" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="menuItemText" parent="@style/grabText">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#5E657A</item>
+    </style><style name="categoryText" parent="@style/grabText">
+        <item name="android:textSize">23sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="alertMessagesTexts">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">19sp</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:gravity">center</item>
+    </style><style name="PasscodeButtonStyle" parent="@android:style/Widget.Button">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#FF464646</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">#FFF</item>
+        
+        <item name="android:layout_margin">1dp</item>
+    </style><style name="helpPage_Text" parent="@style/grabText">
+        <item name="android:textSize">19sp</item>
+    </style><style name="GenericProgressIndicator" parent="@android:style/Widget.ProgressBar.Large.Inverse">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:indeterminate">true</item>
+    </style><style name="productOfferText" parent="@style/grabText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="loyalty_text_title_style">
+        <item name="android:textSize">20sp</item>
+    </style><style name="productNameText_new_loy_small" parent="@style/grabText">
+        <item name="android:textSize">22sp</item>
+
+        
+    </style><style name="helpDialogText_title" parent="@style/grabText">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#FFF</item>
+    </style><style name="productNameText_new_loy_congrats" parent="@style/grabText">
+        <item name="android:textSize">46sp</item>
+
+        
+    </style><style name="alertButtonsText">
+        <item name="android:layout_width">140dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:textSize">21sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="grabText" parent="@android:style/Widget.TextView">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:typeface">serif</item>
+    </style><style name="helpPage_Text_title" parent="@style/grabText">
+        <item name="android:textSize">22sp</item>
+    </style><style name="DialogAnimationByHari">
+        <item name="android:windowEnterAnimation">@android:anim/slide_in_left</item>
+        <item name="android:windowExitAnimation">@android:anim/slide_out_right</item>
+    </style><style name="timer_text" parent="@style/grabText">
+        <item name="android:textSize">30sp</item>
+    </style><style name="username" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">19sp</item>
+    </style><style name="facebookbutton" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">22sp</item>
+    </style><style name="productCouponText_no_mobile" parent="@style/grabText">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="productNameText_new_loy" parent="@style/grabText">
+        <item name="android:textSize">30sp</item>
+
+        
+    </style><style name="GenericProgressBackground" parent="android:Theme">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style><style name="logintext" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">22sp</item>
+    </style><style name="alert_ok_yes_buttons" parent="@style/alertButtonsText">
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">20</item>
+    </style></file><file path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-small/styles.xml" qualifiers="small-v4"><style name="productNameText" parent="@style/grabText">
+        <item name="android:textSize">14sp</item>
+
+        
+
+    </style><style name="GenericProgressBackground" parent="android:Theme">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style><style name="alert_ok_yes_buttons" parent="@style/alertButtonsText">
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">20</item>
+    </style><style name="alertNoButtonsText">
+        <item name="android:layout_width">120dp</item>
+        <item name="android:layout_height">36dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginLeft">10dp</item>
+    </style><style name="loyalty_text_style">
+        <item name="android:textSize">14sp</item>
+    </style><style name="productNameText_new_loy_congrats" parent="@style/grabText">
+        <item name="android:textSize">36sp</item>
+
+        
+    </style><style name="alert_button_no" parent="@style/alertNoButtonsText">
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">20</item>
+    </style><style name="productCouponText" parent="@style/grabText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="No_Fav_Text" parent="@style/grabText">
+        <item name="android:textSize">18sp</item>
+    </style><style name="productCouponText_MiD" parent="@style/grabText">
+        <item name="android:textSize">9sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="logintext" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">18sp</item>
+    </style><style name="productNameText_new_loy_small" parent="@style/grabText">
+        <item name="android:textSize">16sp</item>
+
+        
+    </style><style name="alertMessagesTexts_redeem" parent="@style/alertMessagesTexts">
+        <item name="android:textSize">9sp</item>
+    </style><style name="productCouponText_MiD_no_mobile" parent="@style/grabText">
+        <item name="android:textSize">19sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="text_editbox" parent="@style/text_title">
+        <item name="android:textColor">#000</item>
+        <item name="android:textSize">11sp</item>
+    </style><style name="menuItemText" parent="@style/grabText">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#5E657A</item>
+    </style><style name="button_text">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style><style name="PasscodeButtonStyle" parent="@android:style/Widget.Button">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#FF464646</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">#FFF</item>
+        
+        <item name="android:layout_margin">1dp</item>
+    </style><style name="productDescText" parent="@style/grabText">
+        <item name="android:textSize">11sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textStyle">normal</item>
+    </style><style name="headerTitle" parent="@style/grabText">
+        <item name="android:textSize">19sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style><style name="username" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">15sp</item>
+    </style><style name="noticeUpdateText" parent="@style/grabText">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">#fff</item>
+    </style><style name="productNameText_new_loy_congrats_small" parent="@style/grabText">
+        <item name="android:textSize">26sp</item>
+
+        
+    </style><style name="facebookbutton" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">16sp</item>
+    </style><style name="timer_text" parent="@style/grabText">
+        <item name="android:textSize">25sp</item>
+    </style><style name="loyalty_text_title_style">
+        <item name="android:textSize">18sp</item>
+    </style><style name="registertext" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">18sp</item>
+    </style><style name="productNameText_new_loy" parent="@style/grabText">
+        <item name="android:textSize">18sp</item>
+
+        
+    </style><style name="helpPage_Text" parent="@style/grabText">
+        <item name="android:textSize">12sp</item>
+    </style><style name="helpDialogText" parent="@style/grabText">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#D9EEFD</item>
+    </style><style name="text_title" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="grabText" parent="@android:style/Widget.TextView">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:typeface">serif</item>
+    </style><style name="productOfferText" parent="@style/grabText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="GenericProgressIndicator" parent="@android:style/Widget.ProgressBar.Large.Inverse">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:indeterminate">true</item>
+    </style><style name="alertMessagesTexts">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:gravity">center</item>
+    </style><style name="helpPage_Text_title" parent="@style/grabText">
+        <item name="android:textSize">16sp</item>
+    </style><style name="productCouponText_no_mobile" parent="@style/grabText">
+        <item name="android:textSize">11sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="alert_titles">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_centerInParent">true</item>
+    </style><style name="password" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">15sp</item>
+    </style><style name="helpDialogText_title" parent="@style/grabText">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#FFF</item>
+    </style><style name="productCouponText_offer" parent="@style/grabText">
+        <item name="android:textSize">11sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="DialogAnimationByHari">
+        <item name="android:windowEnterAnimation">@android:anim/slide_in_left</item>
+        <item name="android:windowExitAnimation">@android:anim/slide_out_right</item>
+    </style><style name="categoryText" parent="@style/grabText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="parking_timer_text" parent="@style/grabText">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style><style name="alertButtonsText">
+        <item name="android:layout_width">120dp</item>
+        <item name="android:layout_height">36dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="myMemberCardText" parent="@style/grabText">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#000000</item>
+    </style></file><file path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-w820dp/dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file><file path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/values-xlarge/styles.xml" qualifiers="xlarge-v4"><style name="alertNoButtonsText">
+        <item name="android:layout_width">180dp</item>
+        <item name="android:layout_height">55dp</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginLeft">30dp</item>
+    </style><style name="alertButtonsText">
+        <item name="android:layout_width">180dp</item>
+        <item name="android:layout_height">55dp</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="parking_timer_text" parent="@style/grabText">
+        <item name="android:textSize">44sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style><style name="registertext" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">28sp</item>
+    </style><style name="helpPage_Text" parent="@style/grabText">
+        <item name="android:textSize">25sp</item>
+    </style><style name="productCouponText" parent="@style/grabText">
+        <item name="android:textSize">27sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="password" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">22sp</item>
+    </style><style name="productNameText_new_loy" parent="@style/grabText">
+        <item name="android:textSize">36sp</item>
+
+        
+    </style><style name="text_title" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="productOfferText" parent="@style/grabText">
+        <item name="android:textSize">19sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="loyalty_text_style">
+        <item name="android:textSize">22sp</item>
+    </style><style name="GenericProgressIndicator" parent="@android:style/Widget.ProgressBar.Large.Inverse">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:indeterminate">true</item>
+    </style><style name="productNameText_new_loy_congrats" parent="@style/grabText">
+        <item name="android:textSize">50sp</item>
+
+        
+    </style><style name="timer_text" parent="@style/grabText">
+        <item name="android:textSize">40sp</item>
+    </style><style name="alertMessagesTexts_redeem" parent="@style/alertMessagesTexts">
+        <item name="android:textSize">23sp</item>
+    </style><style name="helpDialogText_title" parent="@style/grabText">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#FFF</item>
+    </style><style name="No_Fav_Text" parent="@style/grabText">
+        <item name="android:textSize">35sp</item>
+    </style><style name="productNameText_new_loy_small" parent="@style/grabText">
+        <item name="android:textSize">26sp</item>
+
+        
+    </style><style name="helpDialogText" parent="@style/grabText">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#D9EEFD</item>
+    </style><style name="productCouponText_offer" parent="@style/grabText">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="alert_titles">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_centerInParent">true</item>
+    </style><style name="productDescText" parent="@style/grabText">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textStyle">normal</item>
+    </style><style name="productCouponText_MiD" parent="@style/grabText">
+        <item name="android:textSize">21sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="GenericProgressBackground" parent="android:Theme">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style><style name="alert_button_no" parent="@style/alertNoButtonsText">
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">20</item>
+    </style><style name="PasscodeButtonStyle" parent="@android:style/Widget.Button">
+        <item name="android:textSize">40sp</item>
+        <item name="android:textColor">#FF464646</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">#FFF</item>
+        
+        <item name="android:layout_margin">1dp</item>
+    </style><style name="facebookbutton" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">25sp</item>
+    </style><style name="grabText" parent="@android:style/Widget.TextView">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:typeface">serif</item>
+    </style><style name="loyalty_text_title_style">
+        <item name="android:textSize">22sp</item>
+    </style><style name="noticeUpdateText" parent="@style/grabText">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#fff</item>
+    </style><style name="username" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">22sp</item>
+    </style><style name="menuItemText" parent="@style/grabText">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#5E657A</item>
+    </style><style name="productNameText" parent="@style/grabText">
+        <item name="android:textSize">28sp</item>
+
+        
+    </style><style name="alertMessagesTexts">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:gravity">center</item>
+    </style><style name="productCouponText_no_mobile" parent="@style/grabText">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="myMemberCardText" parent="@style/grabText">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="DialogAnimationByHari">
+        <item name="android:windowEnterAnimation">@android:anim/slide_in_left</item>
+        <item name="android:windowExitAnimation">@android:anim/slide_out_right</item>
+    </style><style name="logintext" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">28sp</item>
+    </style><style name="text_editbox" parent="@style/text_title">
+        <item name="android:textColor">#000</item>
+        <item name="android:textSize">28sp</item>
+    </style><style name="button_text">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">29sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style><style name="productCouponText_MiD_no_mobile" parent="@style/grabText">
+        <item name="android:textSize">19sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="categoryText" parent="@style/grabText">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="productNameText_new_loy_congrats_small" parent="@style/grabText">
+        <item name="android:textSize">39sp</item>
+
+        
+    </style><style name="helpPage_Text_title" parent="@style/grabText">
+        <item name="android:textSize">27sp</item>
+    </style><style name="headerTitle" parent="@style/grabText">
+        <item name="android:textSize">29sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style><style name="alert_ok_yes_buttons" parent="@style/alertButtonsText">
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">20</item>
+    </style></file><file name="deviceadmin" path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/xml/deviceadmin.xml" qualifiers="" type="xml"/></source><source path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/generated/res/rs/debug"/><source path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/debug/res"/></dataSet><mergedItems/></merger>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/applicationlist_item_selected.xml",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/applicationlist_item_selected.xml"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shape_boundary_rect2.xml",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/shape_boundary_rect2.xml"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/applicationlist_item_back.xml",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/applicationlist_item_back.xml"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/back_selector.xml",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/back_selector.xml"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/toggle_selector.xml",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/toggle_selector.xml"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/white_background.xml",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/white_background.xml"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shape_boundary_rect1.xml",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/shape_boundary_rect1.xml"
+    },
+    {
+        "merged": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/my_shapes_login_screen.xml",
+        "source": "/Users/latheeshvirupakshi/Downloads/AppsTracker1/app/src/main/res/drawable-hdpi/my_shapes_login_screen.xml"
+    }
+]
